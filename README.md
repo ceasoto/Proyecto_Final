@@ -50,4 +50,6 @@ los detalles de la información de cada columna son:
 
 El enfoque del proyecto es visualizar el Escenario de la electromovilidad a nivel mundial usando solo los datos históricos acumulados, realizando una comparación de America latina con respecto al mundo y analizar cómo es el comportamiento de Chile con respecto al resto de LATAM.
 
+El análisis final se presenta en el notebook visualización, donde se utilizan gráficos del tipo barra apilada, gráficos de cinta apilada, gráficos de torta y gráficos de dispersión, para mejor visualización de la información.
+
 Importante: El análisis solo se base en los datos del Dataset. Dentro del análisis se identificó una falta de información para Chile ya que los valores de venta de vehículos eléctricos consideran solo Autos y no Buses y Camiones, los cuales han tenido una tendencia en aumento en los últimos 3 años, tanto por las políticas de transporte público como la información suministrada por la Asociación Nacional Automotriz de Chile ANAC.
